@@ -15,4 +15,4 @@
 * **[FIAP Status & SRE Mobile](https://github.com/GuiMM27/fiap-mdi-cp1-sre-mobile):** App de monitoramento de infraestrutura estilo NOC/SRE criado com React Native.
 
 ### 📫 Como me encontrar
-<a href="COLE_AQUI_O_LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/gmoreira27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
